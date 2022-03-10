@@ -1,1 +1,6 @@
 /* give your assignment a fun background color */
+body {
+    background-color: gray; /* "Gray is my favorite color/I felt so symbolic yesterday"
+    (the most pretentious 90s lyrics I know) */
+    color: white;
+}
